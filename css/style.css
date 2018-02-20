@@ -54,6 +54,7 @@ p{
 }
 
 .citater{
+
  font-family: fantasy;
  font-weight: bold;
  font-size: 1.2em;
@@ -226,12 +227,13 @@ img {vertical-align: middle;}
 /* CITATER*/
 
 .flex-container2 {
+  text-align: center;
  display: flex;
  float: left;
  justify-content: space-around;
  margin-left: 4%;
  margin-bottom: 1px;
- width: 385px;
+ width: 370px;
  height: 100px;
  padding:8px;
  
